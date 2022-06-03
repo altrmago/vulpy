@@ -42,8 +42,6 @@ pycparser==2.21
 pycryptodome==3.10.1
 PyJWT==2.3.0
 pylint==2.12.2
-pymssql @ file:///C:/Users/biswasam/Desktop/AmitBiswas-H/Binaries/pythonvenv310/pyvenv310/Scripts/pymssql-2.2.2-cp310-cp310-win_amd64.whl
-pyodbc @ file:///C:/Users/biswasam/Desktop/AmitBiswas-H/Binaries/python/pyodbc-4.0.32-cp310-cp310-win_amd64.whl
 pyOpenSSL==21.0.0
 pyparsing==3.0.6
 python-dateutil==2.8.2
