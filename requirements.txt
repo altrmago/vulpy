@@ -27,7 +27,7 @@ msal==1.17.0
 msrest==0.6.21
 ndg-httpsclient==0.5.1
 numpy==1.21.5
-oauthlib==3.1.1
+oauthlib==3.2.1
 Office365-REST-Python-Client==2.3.10
 olefile==0.46
 openpyxl==3.0.9
@@ -61,3 +61,4 @@ urllib3==1.26.7
 Werkzeug==2.0.2
 wrapt==1.13.3
 xlrd==1.2.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
