@@ -23,7 +23,7 @@ Jinja2==3.0.3
 lazy-object-proxy==1.7.1
 MarkupSafe==2.0.1
 mccabe==0.6.1
-msal==1.17.0
+msal==1.24.1
 msrest==0.6.21
 ndg-httpsclient==0.5.1
 numpy==1.21.5
