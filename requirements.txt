@@ -7,7 +7,7 @@ charset-normalizer==2.0.9
 click==8.0.3
 colorama==0.4.4
 compressed-rtf==1.0.6
-cryptography==36.0.1
+cryptography==41.0.6
 Cython==0.29.26
 ebcdic==1.1.1
 et-xmlfile==1.1.0
