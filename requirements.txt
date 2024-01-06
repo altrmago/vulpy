@@ -39,7 +39,7 @@ pip-tools==6.4.0
 platformdirs==2.4.0
 pyasn1==0.4.8
 pycparser==2.21
-pycryptodome==3.10.1
+pycryptodome==3.19.1
 PyJWT==2.3.0
 pylint==2.12.2
 pyOpenSSL==21.0.0
