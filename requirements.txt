@@ -14,7 +14,7 @@ et-xmlfile==1.1.0
 extract-msg==0.30.0
 Flask==2.0.2
 greenlet==1.1.2
-idna==3.3
+idna==3.7
 IMAPClient==2.1.0
 isodate==0.6.1
 isort==5.10.1
